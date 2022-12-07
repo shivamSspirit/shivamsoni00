@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivamsoni00
-- 👀 I’m interested in frontend development web3
+- 👀 I’m interested in frontend development
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on web3
+- 💞️ I’m looking to collaborate in Front end developement
 - 📫 https://twitter.com/ShivamSspirit
 
 <!---
