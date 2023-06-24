@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shivamsoni00
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate in Front end developement and devrel role
+- 👀 I’m interested in Web/Blockchain development 
+- 🌱 I’m currently learning Blockchain development
+- 💞️ I’m looking to collaborate in Front end development and blockchain devrel role
 - 📫 https://twitter.com/ShivamSspirit
+- 🌟 https://shivam-spirit.vercel.app/
 
 <!---
 shivamsoni00/shivamsoni00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
