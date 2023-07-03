@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shivamsoni00
 - 👀 I’m interested in Web/Blockchain development 
-- 🌱 I’m currently learning Blockchain development
-- 💞️ I’m looking to collaborate in Front end development and blockchain devrel role
+- 🌱 I’m currently learning and instructing Blockchain development
 - 📫 https://twitter.com/ShivamSspirit
 - 🌟 https://shivam-spirit.vercel.app/
 
